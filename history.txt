@@ -1,0 +1,171 @@
+    1  git --version
+    2  open git
+    3  git 
+    4  git help git
+    5  git dir
+    6  git --help
+    7  git config -l
+    8  source /Users/fsoytemiz/opt/anaconda3/bin/activate
+    9  conda activate base
+   10  /Users/fsoytemiz/opt/anaconda3/bin/python /Users/fsoytemiz/galvanize/main.py
+   11  git --version
+   12  jupyter notebook
+   13  vscode
+   14  echo $0
+   15  exit
+   16  echo $0
+   17  clear
+   18  x =3
+   19  echo $0
+   20  x=3
+   21  y=2
+   22  echo $x $y
+   23  ls
+   24  pwd
+   25  cd
+   26  cd/
+   27  cd /
+   28  cd Downloads
+   29  pwd
+   30  cd
+   31  pwd
+   32  cd Downloads
+   33  pwd
+   34  cd fsoytemiz
+   35  pwd
+   36  cd
+   37  mkdir Galvanize
+   38  cd Dekstop
+   39  pwd
+   40  cd Desktop
+   41  mkdir Galvanize
+   42  ls
+   43  cd Galvanize
+   44  touch hello.txt
+   45  touch a.py b.py c.py
+   46  ls
+   47  touch file-{d,e,f}.py
+   48  ld
+   49  ls
+   50  ls
+   51  touch {a..z}.py
+   52  ls
+   53  touch {1,2,3}.py
+   54  ls
+   55  rm*
+   56  ls
+   57  rm *
+   58  ls
+   59  touch {1..5}.{txt,y
+   60  touch {1..5}.{txt,y}
+   61  ls
+   62  rm *
+   63  ls
+   64  touch {1..5}.{txt,py}
+   65  ls
+   66  rm *.txt
+   67  ls
+   68  cp 1.py 1-copy.py
+   69  ls
+   70  mv 1.py 11.py
+   71  ls
+   72  mkdir w1d1
+   73  ls
+   74  cd w1d1
+   75  ls
+   76  pwd
+   77  mkdir unix
+   78  tourhc {1..5}.py
+   79  ls
+   80  cd unix
+   81  ls
+   82  touch {1..5}.py
+   83  ls
+   84  vi main.py
+   85  pwd
+   86  cd Galvanize
+   87  cd w1d1
+   88  ls
+   89  c
+   90  cd
+   91  cd Desktop
+   92  c Galvanize
+   93  pwd
+   94  cd Galvanize
+   95  cd w1d1
+   96  cd unix
+   97  ls
+   98  ls -al
+   99  vi main.py
+  100  ls
+  101  python --version
+  102  ls
+  103  curl https://people.sc.fsu.edu/~jburkardt/data/csv/zillow.csv
+  104  ls
+  105  curl https://people.sc.fsu.edu/~jburkardt/data/csv/zillow.csv> zillow.csv
+  106  ls
+  107  vi zillow.csv
+  108  cat zillow.csv
+  109  head zillow.csv
+  110  head -n 1 zillow.csv
+  111  tail -n 3 zillow.csv
+  112  cat zillow.csv
+  113  cat zillow.csv | grep 3
+  114  cat zillow.csv | grep 3200
+  115  vi demo.txt
+  116  cat demo.txt | sort
+  117  cat demo.txt | sort | uniq
+  118  cat demo.txt | sort | uniq>cool_demo.txt
+  119  ls
+  120  cat cool_demo.txt
+  121  cat demo.txt
+  122  bash
+  123  x=3
+  124  excho $x
+  125  echo $x
+  126  bash
+  127  echo $x
+  128  touch my_pyhton.py
+  129  ls
+  130  vi my_python.py
+  131  cat my+python.py
+  132  cat my_python.py
+  133  python my_python.py
+  134  export x=7
+  135  python my_python.py
+  136  git --version
+  137  ls
+  138  cd w1d1
+  139  cd
+  140  cd Desktop
+  141  cd Galvanize
+  142  cd w1d1
+  143  mkdir git
+  144  ps
+  145  ls
+  146  cd git
+  147  git config
+  148  git config --global user.email "fatima.soytemiz@idt.net"
+  149  git config --global user.emailname "Fatima Soytemiz"
+  150  git config -l | grep user
+  151  cat .bash_profile
+  152  ls -al | grep bash
+  153  ls
+  154  ls -al | grep bash
+  155  cat .bash_profile
+  156  git
+  157  cd
+  158  ls
+  159  cd Desktop
+  160  ls
+  161  cd Galvanize
+  162  ls
+  163  cd w1d1
+  164  ls
+  165  cd git
+  166  ls
+  167  mkdir demo
+  168  ls
+  169  cd demo
+  170  history
+  171  history > history.txt
